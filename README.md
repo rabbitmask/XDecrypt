@@ -1,5 +1,5 @@
 # XDecrypt
-Xmanager Encrypt Tools.
+Xmanager Decrypt Tools.
 
 # Reference:  
 > https://github.com/HyperSine/how-does-Xmanager-encrypt-password/blob/master/doc/how-does-Xmanager-encrypt-password.md
