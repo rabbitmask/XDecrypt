@@ -15,7 +15,7 @@ Xmanager Encrypt Tools.
 
 
     # xa: For session file version < 5.1 .Encrypted by XShell
-        usage:  XDecrypt xa [ciphertext]
+        usage: XDecrypt xa [ciphertext]
 
     # xb: For session file version < 5.1 .Encrypted by XFtp
         usage: XDecrypt xb [ciphertext]
