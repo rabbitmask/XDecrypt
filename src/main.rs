@@ -210,7 +210,7 @@ fn main() {
 
     let help ="
     # xa: For session file version < 5.1 .Encrypted by XShell
-        usage:  XDecrypt xa [CIPHERTEXT]
+        usage: XDecrypt xa [CIPHERTEXT]
 
     # xb: For session file version < 5.1 .Encrypted by XFtp
         usage: XDecrypt xb [CIPHERTEXT]
